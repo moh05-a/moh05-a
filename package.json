@@ -1,0 +1,10 @@
+{
+  "name": "moh05-a-profile",
+  "private": true,
+  "description": "Fonts used to regenerate the profile artwork (scripts/gen.py)",
+  "devDependencies": {
+    "@fontsource/geist-mono": "^5.2.0",
+    "@fontsource/geist-sans": "^5.2.0",
+    "@fontsource/instrument-serif": "^5.2.0"
+  }
+}
